@@ -25,7 +25,7 @@ From 2025.01, I am an Associate Professor at Xiangtan University, Master's Super
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted in [TEVC](https://doi.org/10.1109/TEVC.2025.3597615)(CCF-B). 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04*: &nbsp;🎉🎉 One paper is accepted in [Swarm and Evolutionary Computation](https://doi.org/10.1016/j.swevo.2025.101876)(CCF-B). 
 
 # 📝 Publications 
 
